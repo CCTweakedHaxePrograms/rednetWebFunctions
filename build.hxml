@@ -1,0 +1,7 @@
+--lua main.lua
+-D lua-vanilla
+--class-path src
+--main Main
+--library cctweaked
+-lib random
+# --interp
