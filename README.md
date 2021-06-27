@@ -16,5 +16,5 @@ function main() {
 ```
 
 ToDO:
-[ ] Add Server side macros to make adding new functions easier
-[ ] Add a security system to limit access to networked functions
+* [ ] Add Server side macros to make adding new functions easier
+* [ ] Add a security system to limit access to networked functions
